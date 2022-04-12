@@ -117,7 +117,7 @@
     "@mdn/dinocons": "^0.3.5",
     "@mdn/minimalist": "^2.0.4",
     "@playwright/test": "1.17.1",
-    "@testing-library/react": "^12.1.2",
+    "@testing-library/react": "^12.1.5",
     "@types/hast": "^2.3.4",
     "@types/jest": "^27.0.3",
     "@types/mdast": "^3.0.10",
